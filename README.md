@@ -7,10 +7,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Youssef-Khafagy/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Youssef-Khafagy/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Youssef-Khafagy/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Youssef-Khafagy/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Youssef-Khafagy/LeetCode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Youssef-Khafagy/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
