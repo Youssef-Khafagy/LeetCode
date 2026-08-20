@@ -1,0 +1,16 @@
+class Solution(object):
+    def containsDuplicate(self, nums):
+        seen = set()
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        for x in nums:
+            if x in seen:
+                return True
+            else:
+                seen.add(x)
+        return False
+
+
+   
